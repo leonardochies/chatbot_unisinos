@@ -1,4 +1,4 @@
-mock_alunos = [
+mock_students = [
     {
         "id": "2023001",
         "nome": "Lucas Andrade",

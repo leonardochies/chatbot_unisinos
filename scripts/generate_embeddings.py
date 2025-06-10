@@ -4,7 +4,7 @@ import numpy as np
 from data.pdf_utils import extract_text_from_pdf
 from core.embedding_utils import split_text, generate_embedding
 
-PDF_PATH = "unisinos_faq.pdf"
+PDF_PATH = "scripts/unisinos_faq.pdf"
 DOCS_FILE = "docs.pkl"
 INDEX_FILE = "faiss_index.index"
 
